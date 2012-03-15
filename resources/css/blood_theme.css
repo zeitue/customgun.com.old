@@ -1,0 +1,27 @@
+.contents{
+       margin-top: 15px;
+    margin-left: 18%;
+    margin-bottom: 15px;
+margin-right 15px;
+    padding: 15px;
+}
+body{
+    background: #b20c0c; /* Old browsers */
+background: -moz-linear-gradient(left, #b20c0c 0%, #700101 40%, #700101 61%, #b51919 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,#b20c0c), color-stop(40%,#700101), color-stop(61%,#700101), color-stop(100%,#b51919)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left, #b20c0c 0%,#700101 40%,#700101 61%,#b51919 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left, #b20c0c 0%,#700101 40%,#700101 61%,#b51919 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left, #b20c0c 0%,#700101 40%,#700101 61%,#b51919 100%); /* IE10+ */
+background: linear-gradient(left, #b20c0c 0%,#700101 40%,#700101 61%,#b51919 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b20c0c', endColorstr='#b51919',GradientType=1 ); /* IE6-9 */
+}
+
+
+body a:link {color:white;}
+body a:visited { color:purple;}
+body a:hover {color:red;}
+body a:active {color:green;}
+
+a{
+    text-decoration:none;
+}
