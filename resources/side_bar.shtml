@@ -2,21 +2,24 @@
 <html><head>
   
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-  
+    <link rel="canonical" href="http://customgun.com.com" />
+      <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+    </script>
   <link href="../resources/css/side_bar.css" rel="stylesheet" type="text/css">
 
-  
+<link rel="shortcut icon" href="../resources/favicons/icon.ico">
   <meta name="Keywords" content=", seperated list">
 
   
   <meta name="Description" content="page descriptions">
 
 </head><body>
-<div class="side_bar">Todd Ramirez<br>
-Custom Rifles
+<div class="side_bar">
+
+<!--Todd Ramirez<br>
+Custom Rifles-->
 <a href="../home">
-<div class="button">Home</div>
+<div class="button" ><img src="../resources/images/TR.svg" height="96" width="96"><!--Home--></div>
 </a><a href="../custom_rifles">
 <div class="button">Custom Rifles</div>
 </a><a href="../signature_rifle">
@@ -80,7 +83,10 @@ Custom Rifles
 
 <a href="../sitemap-alphabetical">
 <div class="button">site map</div>
-</a><br>
+</a>
+<div class="button"><div class="g-plusone"  data-annotation="bubble" data-width="300"></div></div>
+<br>
+
 <br>
 </div>
 
