@@ -21,9 +21,7 @@ Custom Rifles-->
 <a href="../home">
 <div class="button"><img src="../resources/images/TR.svg" height="96" width="96"><!--Home--></div>
 </a>
-<div class="button">
-
-</div>
+<div class="button"><div class="g-plusone"  data-annotation="bubble" data-width="300"></div></div>
 <a href="../custom_rifles">
 <div class="button">Custom Rifles</div>
 </a><a href="../signature_rifle">
