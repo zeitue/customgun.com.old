@@ -1,20 +1,21 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html><head>
+  
+  <link href="../resources/css/blood_theme.css" rel="stylesheet">
+
+<!--#include virtual="../resources/shtml/side_bar.shtml" -->
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+  <title>Custom Shop - Contact</title>
 
   
-  <link href="../resources/css/blood_theme.css" rel="stylesheet"><!--#include virtual="../resources/shtml/side_bar.shtml" -->
-
-
   
-  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Custom Shop - Contact</title>
-  
+  <meta name="Keywords" content=", seperated list" todd="" ramirez,="" custom="" premium="" gunsmith="" rifles,="" deer="" hunting="" rifles="">
 
   
-  
-  <meta name="Keywords" content=", seperated list" custom="" todd="" ramirez,="" premium="" gunsmith,="" african="" big="" bore="" rifles,="" deer="" hunting="" rifles="">
+  <meta name="Description" content="Todd Ramirez Premium Rifles">
 
-  
-  <meta name="Description" content="page descriptions"></head><body>
+</head><body>
 <div class="contents">
 <div style="text-align: center;"><font color="#d56800" face="Stencil, Serif" size="7"><em>Todd Ramirez <br>
 Contact<br>
