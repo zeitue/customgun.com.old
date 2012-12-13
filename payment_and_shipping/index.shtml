@@ -1,12 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html><head>
-  
-  <link href="../resources/css/blood_theme.css" rel="stylesheet">
 
-<!--#include virtual="../resources/shtml/side_bar.shtml" -->
   
-  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
-  <title>Custom Shop - Payment &amp; Shipping</title>
+  <link href="../resources/css/blood_theme.css" rel="stylesheet"><!--#include virtual="../resources/shtml/side_bar.shtml" -->
+
+
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Custom Shop - Payment &amp; Shipping</title>
+  
 
   
   
@@ -14,9 +15,7 @@
 rifles, gunsmith, beretta specialist">
 
   
-  <meta name="Description" content="Todd Ramirez Custom Rifles, Payment &amp; Shipping information">
-
-</head><body>
+  <meta name="Description" content="Todd Ramirez Custom Rifles, Payment &amp; Shipping information"></head><body>
 <div class="contents">
 <p align="center"><font size="7">&nbsp; <font color="#d56800" face="Stencil, Serif"><em>Payment &amp; Shipping</em></font></font></p>
 <p align="center">&nbsp;</p>
@@ -57,7 +56,7 @@ Texas 75410</font></em></p>
 </ul>
 <p><font color="#ffff99" size="4"><em>Unless otherwise requested return
 shipment will be by Fed-ex.&nbsp; Minimum shipping charges will be
-$35.00 for firearms.&nbsp; Additional charges may be added to guarantee
+$50.00 for firearms.&nbsp; Additional charges may be added to guarantee
 the packages are insured for full replacement value.&nbsp;</em></font></p>
 <p>&nbsp;</p>
 <ul>
