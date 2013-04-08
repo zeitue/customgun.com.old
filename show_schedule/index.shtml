@@ -1,76 +1,68 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html><head>
-  
-  <link href="../resources/css/blood_theme.css" rel="stylesheet">
-
-<!--#include virtual="../resources/shtml/side_bar.shtml" -->
-  
-  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
-  <title>Custom Shop - Show Schedule</title>
-
-  
-  
-  <meta name="Keywords" content="todd ramirez, custom rifles, safari club international, dallas safari club,
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <link href="../resources/css/blood_theme.css" rel="stylesheet">
+    <!--#include virtual="../resources/shtml/side_bar.shtml" -->
+    <title>Custom Shop - Show Schedule</title>
+    <meta name="Keywords" content="todd ramirez, custom rifles, safari club international, dallas safari club,
 premium rifle builder, shotguns, bolt action rifles, restoration, gunsmith=">
-
-  
-  <meta name="Description" content="Todd Ramirez Premium Rifle Builder show schedule.">
-
-</head><body>
-<div class="contents">
-<p style="text-align: center;"><font face="Broadway BT, Serif"><font size="6"><font color="#d56800">Show
-Schedule</font></font></font></p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;">&nbsp;</p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;">&nbsp;</p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;"><font color="#00ff00" face="Rockwell Extra Bold" size="6">Dallas Safari Club</font></p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;"><font color="#00ff00" size="6">Out of
-the Wild * 2012 Convention</font></p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;"><span style="font-size: 24pt;"><span style="font-size: 24pt;"><font color="#ff6600">*&nbsp; January
-3-6, 20 13</font></span></span></p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;"><span style="font-size: 24pt;"><span style="font-size: 24pt;"><font color="#ff6600">Dallas
-Convention Center, Hall C, D, E, &amp; F</font></span></span></p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;"><span style="font-size: 24pt;"><span style="font-size: 24pt;"><font color="#ff6600">booth # 1442 <br>
-</font></span></span></p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;"><font color="#ff6600">&nbsp;</font></p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;">&nbsp;</p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;"><font color="#00ff00" face="Rockwell Extra Bold" size="6">Safari Club International</font></p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;"><font color="#00ff00" size="6">2013 41st
-Annual Hunters ' Convention</font></p>
-<div style="text-align: center;">
-</div>
-<p style="text-align: center;"><font color="#ff6600" size="6"><font color="#00ff00">&nbsp;</font><font color="#ff6600">January 23 - 26,
-2013</font></font></p>
-<p style="text-align: center;"><font color="#ff6600" size="6"><font color="#ff6600"> in Reno, Nevada</font></font></p>
-<div style="text-align: center;">
-</div>
-<div style="text-align: center;"><font color="#ff6600"><font size="6">Booth&nbsp;
-# 2825<br>
-<br>
-</font></font>
-<br>
-</div>
-</div>
-
-</body></html>
+    <meta name="Description" content="Todd Ramirez Premium Rifle Builder show schedule.">
+  </head>
+  <body>
+    <div class="contents">
+      <p style="text-align: center;"><font face="Broadway BT, Serif"><font size="6"><font
+              color="#d56800">Show
+              Schedule</font></font></font></p>
+      <div style="text-align: center;">
+      </div>
+      <p style="text-align: center;">&nbsp;</p>
+      <div style="text-align: center;">
+      </div>
+      <p style="text-align: center;">&nbsp;</p>
+      <div style="text-align: center;">
+      </div>
+      <p style="text-align: center;"><font face="Rockwell Extra Bold" color="#00ff00"
+          size="6">Dallas Safari Club</font></p>
+      <div style="text-align: center;">
+      </div>
+      <span style="font-size: 24pt;"><span style="font-size: 24pt;"><font color="#ff6600">&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 2014 TBA<br>
+          </font></span></span>
+      <div style="text-align: center;">
+      </div>
+      <p style="text-align: center;"><font color="#ff6600">&nbsp;</font></p>
+      <div style="text-align: center;">
+      </div>
+      <p style="text-align: center;">&nbsp;</p>
+      <div style="text-align: center;">
+      </div>
+      <p style="text-align: center;"><font face="Rockwell Extra Bold" color="#00ff00"
+          size="6">Safari Club International</font></p>
+      <div style="text-align: center;">
+      </div>
+      <p style="text-align: center;"><font color="#00ff00" size="6">201<span style="font-size: xx-large;">4</span>
+          42nd
+          Annual Hunters ' Convention</font></p>
+      <p style="text-align: center;"><font color="#00ff00" size="6"><span style="font-size: xx-large; color: #ff6600;">TBA</span><br>
+        </font></p>
+      <div style="text-align: center;">
+      </div>
+      <p style="text-align: center;"><font color="#ff6600" size="6"><font color="#00ff00">&nbsp;</font></font></p>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; </div>
+  </body>
+</html>
